@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;800;900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Titillium+Web:ital,wght@0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,600;1,700&family=Ubuntu:wght@400;500&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+    font-family: 'Inter', sans-serif;
+}
+
+.normal-font {
+    font-size: 14px;
+    color: #425466;
+    margin-bottom: 10px;
+}
+
+.heading-text {
+    font-size: 16px;
+    font-weight: 500;
+    color: #132542;
+}
+
+.inner-conten {
+    max-width: 600px;
+    padding-top: 40px;
+    padding-right: 35px !important;
+    padding-left: 35px !important;
+    background: #ffffff;
+
+}
+
+.form-height {
+    height: 45px;
+    border: 0.5px solid #666B77;
+}
+
+.input-noumber {
+    padding-top: 12px;
+}
+
+.form-height-big {
+    height: 90px;
+    border: 0.5px solid #666B77;
+}
+
+.form-check-input {
+    /* color: #E2276F; */
+    border: 1px solid #E2276F !important;
+
+}
+
+.btn-submit {
+    background: #e2276f;
+    color: #ffff;
+    padding: 10px 38px;
+    border: 0;
+}
+
+.last-text {
+    color: #E2276F;
+    font-size: 14px;
+    font-weight: 500;
+}
